@@ -116,5 +116,4 @@ Assigned users to roles for secure access.
 
 Published report to Power BI Service
 
-Do you also want me to create a condensed version (4–5 bullets) that you can plug directly into your resume under "Projects"?
 
